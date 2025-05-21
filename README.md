@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Adivinador de Números</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Arial, sans-serif;
-      padding: 30px;
-      background: linear-gradient(120deg, #e3f0ff 0%, #b3d8ff 100%);
-      min-height: 100vh;
-    }
-    h2 {
-      color: #1565c0;
-      text-align: center;
-      margin-bottom: 10px;
-      font-size: 2rem;
-      letter-spacing: 1px;
-    }
-    p {
-      text-align: center;
-      font-size: 1.1rem;
-      margin-bottom: 30px;
+
       color: #1565c0;
     }
     .contenedor-tablas {
